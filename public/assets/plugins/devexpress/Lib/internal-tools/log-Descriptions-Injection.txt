@@ -1,0 +1,82 @@
+2021-03-16 14:23:26.9287|Info|DevExtreme.Infrastructure.Diagnostics.Log.Start
+
+================================================================
+Descriptions Injection Started
+================================================================
+
+2021-03-16 14:23:28.1597|Warn|DevExtreme.Descriptions.Injector.DescriptionsInjector.ReplaceDescriptionStubs
+Stubbed member not found: ChartCommonSeriesSettings
+2021-03-16 14:23:28.1597|Warn|DevExtreme.Descriptions.Injector.DescriptionsInjector.ReplaceDescriptionStubs
+Stubbed member not found: ChartCommonSeriesSettings.area
+2021-03-16 14:23:28.1597|Warn|DevExtreme.Descriptions.Injector.DescriptionsInjector.ReplaceDescriptionStubs
+Stubbed member not found: ChartCommonSeriesSettings.bar
+2021-03-16 14:23:28.1597|Warn|DevExtreme.Descriptions.Injector.DescriptionsInjector.ReplaceDescriptionStubs
+Stubbed member not found: ChartCommonSeriesSettings.bubble
+2021-03-16 14:23:28.1597|Warn|DevExtreme.Descriptions.Injector.DescriptionsInjector.ReplaceDescriptionStubs
+Stubbed member not found: ChartCommonSeriesSettings.candlestick
+2021-03-16 14:23:28.1597|Warn|DevExtreme.Descriptions.Injector.DescriptionsInjector.ReplaceDescriptionStubs
+Stubbed member not found: ChartCommonSeriesSettings.fullstackedarea
+2021-03-16 14:23:28.1597|Warn|DevExtreme.Descriptions.Injector.DescriptionsInjector.ReplaceDescriptionStubs
+Stubbed member not found: ChartCommonSeriesSettings.fullstackedbar
+2021-03-16 14:23:28.1597|Warn|DevExtreme.Descriptions.Injector.DescriptionsInjector.ReplaceDescriptionStubs
+Stubbed member not found: ChartCommonSeriesSettings.fullstackedline
+2021-03-16 14:23:28.1597|Warn|DevExtreme.Descriptions.Injector.DescriptionsInjector.ReplaceDescriptionStubs
+Stubbed member not found: ChartCommonSeriesSettings.fullstackedspline
+2021-03-16 14:23:28.1597|Warn|DevExtreme.Descriptions.Injector.DescriptionsInjector.ReplaceDescriptionStubs
+Stubbed member not found: ChartCommonSeriesSettings.fullstackedsplinearea
+2021-03-16 14:23:28.1597|Warn|DevExtreme.Descriptions.Injector.DescriptionsInjector.ReplaceDescriptionStubs
+Stubbed member not found: ChartCommonSeriesSettings.line
+2021-03-16 14:23:28.1597|Warn|DevExtreme.Descriptions.Injector.DescriptionsInjector.ReplaceDescriptionStubs
+Stubbed member not found: ChartCommonSeriesSettings.rangearea
+2021-03-16 14:23:28.1597|Warn|DevExtreme.Descriptions.Injector.DescriptionsInjector.ReplaceDescriptionStubs
+Stubbed member not found: ChartCommonSeriesSettings.rangebar
+2021-03-16 14:23:28.1597|Warn|DevExtreme.Descriptions.Injector.DescriptionsInjector.ReplaceDescriptionStubs
+Stubbed member not found: ChartCommonSeriesSettings.scatter
+2021-03-16 14:23:28.1597|Warn|DevExtreme.Descriptions.Injector.DescriptionsInjector.ReplaceDescriptionStubs
+Stubbed member not found: ChartCommonSeriesSettings.spline
+2021-03-16 14:23:28.1597|Warn|DevExtreme.Descriptions.Injector.DescriptionsInjector.ReplaceDescriptionStubs
+Stubbed member not found: ChartCommonSeriesSettings.splinearea
+2021-03-16 14:23:28.1597|Warn|DevExtreme.Descriptions.Injector.DescriptionsInjector.ReplaceDescriptionStubs
+Stubbed member not found: ChartCommonSeriesSettings.stackedarea
+2021-03-16 14:23:28.1597|Warn|DevExtreme.Descriptions.Injector.DescriptionsInjector.ReplaceDescriptionStubs
+Stubbed member not found: ChartCommonSeriesSettings.stackedbar
+2021-03-16 14:23:28.1597|Warn|DevExtreme.Descriptions.Injector.DescriptionsInjector.ReplaceDescriptionStubs
+Stubbed member not found: ChartCommonSeriesSettings.stackedline
+2021-03-16 14:23:28.1597|Warn|DevExtreme.Descriptions.Injector.DescriptionsInjector.ReplaceDescriptionStubs
+Stubbed member not found: ChartCommonSeriesSettings.stackedspline
+2021-03-16 14:23:28.1597|Warn|DevExtreme.Descriptions.Injector.DescriptionsInjector.ReplaceDescriptionStubs
+Stubbed member not found: ChartCommonSeriesSettings.stackedsplinearea
+2021-03-16 14:23:28.1597|Warn|DevExtreme.Descriptions.Injector.DescriptionsInjector.ReplaceDescriptionStubs
+Stubbed member not found: ChartCommonSeriesSettings.steparea
+2021-03-16 14:23:28.1597|Warn|DevExtreme.Descriptions.Injector.DescriptionsInjector.ReplaceDescriptionStubs
+Stubbed member not found: ChartCommonSeriesSettings.stepline
+2021-03-16 14:23:28.1597|Warn|DevExtreme.Descriptions.Injector.DescriptionsInjector.ReplaceDescriptionStubs
+Stubbed member not found: ChartCommonSeriesSettings.stock
+2021-03-16 14:23:28.1597|Warn|DevExtreme.Descriptions.Injector.DescriptionsInjector.ReplaceDescriptionStubs
+Stubbed member not found: ChartCommonSeriesSettings.type
+2021-03-16 14:23:28.2735|Warn|DevExtreme.Descriptions.Injector.DescriptionsInjector.ReplaceDescriptionStubs
+Stubbed member not found: PieChartCommonSeriesSettings
+2021-03-16 14:23:28.3247|Warn|DevExtreme.Descriptions.Injector.DescriptionsInjector.ReplaceDescriptionStubs
+Stubbed member not found: PolarChartCommonSeriesSettings
+2021-03-16 14:23:28.3247|Warn|DevExtreme.Descriptions.Injector.DescriptionsInjector.ReplaceDescriptionStubs
+Stubbed member not found: PolarChartCommonSeriesSettings.area
+2021-03-16 14:23:28.3247|Warn|DevExtreme.Descriptions.Injector.DescriptionsInjector.ReplaceDescriptionStubs
+Stubbed member not found: PolarChartCommonSeriesSettings.bar
+2021-03-16 14:23:28.3247|Warn|DevExtreme.Descriptions.Injector.DescriptionsInjector.ReplaceDescriptionStubs
+Stubbed member not found: PolarChartCommonSeriesSettings.line
+2021-03-16 14:23:28.3247|Warn|DevExtreme.Descriptions.Injector.DescriptionsInjector.ReplaceDescriptionStubs
+Stubbed member not found: PolarChartCommonSeriesSettings.scatter
+2021-03-16 14:23:28.3247|Warn|DevExtreme.Descriptions.Injector.DescriptionsInjector.ReplaceDescriptionStubs
+Stubbed member not found: PolarChartCommonSeriesSettings.stackedbar
+2021-03-16 14:23:28.3247|Warn|DevExtreme.Descriptions.Injector.DescriptionsInjector.ReplaceDescriptionStubs
+Stubbed member not found: PolarChartCommonSeriesSettings.type
+2021-03-16 14:23:28.4283|Info|DevExtreme.Infrastructure.Diagnostics.Log.Stop
+
+================================================================
+
+Descriptions Injection SUCCEEDED
+
+Warnings: 33
+Errors: 0
+Ellapsed time: 1.514 sec
+
